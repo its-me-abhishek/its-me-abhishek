@@ -1,5 +1,5 @@
-- Hi! I'm Abhishek, a student of B.E. in Information Technology based in India.
-- Currently studying at University Institute of Engineering Technology, Chandigarh, Panjab University.
+- Hi! I'm Abhishek.
+- Currently pursuing B.E. in Information Technology at University Institute of Engineering Technology, Chandigarh, Panjab University.
 - Interested in Data Science, Data Analysis, Machine Learning and Artificial Intelligence.
 - Learning Android development using Flutter.
 - Feel free to connect.
