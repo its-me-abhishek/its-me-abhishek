@@ -9,8 +9,7 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/ddcfe757-31f8-406a-ab6c-4e17adfc014f)
-" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/ddcfe757-31f8-406a-ab6c-4e17adfc014f)" height="100">
   <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/7738febf-5a39-4942-9f44-d298bc02935e)
 " height="100">
   <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/08db8a41-accc-4b0a-9c1a-0ad6cc6682e6)
