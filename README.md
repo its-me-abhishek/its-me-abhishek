@@ -9,15 +9,20 @@
 
 ### Programming Languages
 <div align="center">
-  <img src="https://github.com/its-me-abhishek/its-me-abhishek/blob/main/assets/114338679/421e0e9e-9d45-46ed-b093-37abe5c39d6b.png" height="100">
-  <img src="https://github.com/its-me-abhishek/its-me-abhishek/blob/main/assets/114338679/136fb7c2-4315-41f9-a2ea-91afca4435e5.png" height="100">
-  <img src="https://github.com/its-me-abhishek/its-me-abhishek/blob/main/assets/114338679/30b7e52f-cbc7-435a-94b3-7f38f999a61e.png" height="100">
-  <img src="https://github.com/its-me-abhishek/its-me-abhishek/blob/main/assets/114338679/9793dcd2-a0c1-460c-bccd-68db788a9222.png" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/ddcfe757-31f8-406a-ab6c-4e17adfc014f)
+" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/7738febf-5a39-4942-9f44-d298bc02935e)
+" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/08db8a41-accc-4b0a-9c1a-0ad6cc6682e6)
+" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/e3110421-4cfe-4c0a-81bf-b6349fb62eb6)
+" height="100">
 </div>
 
 ### App development
 <div align="center">
-  <img src="https://github.com/its-me-abhishek/its-me-abhishek/blob/main/assets/114338679/68a7b045-cd47-4a00-ab1c-21d97728f2fd.png" height="100">
+  <img src="![image](https://github.com/its-me-abhishek/its-me-abhishek/assets/114338679/5102a0b7-ed3f-4b5b-a021-e5ccf1a7c019)
+" height="100">
 </div>
 
 ### Frameworks
