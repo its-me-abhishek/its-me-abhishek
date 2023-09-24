@@ -1,5 +1,5 @@
-# About
-- Hi! I'm Abhishek.
+# Hi! I'm Abhishek!
+## About
 - Currently pursuing B.E. in Information Technology at University Institute of Engineering Technology, Chandigarh, Panjab University.
 - An open source enthusiast interested in Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
 - Learning Android development using Flutter.
