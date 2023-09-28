@@ -5,10 +5,10 @@
 - Learning Android development using Flutter.
 - Feel free to connect. Always up for networking and collaboration.
 - Find me @ [Kaggle](https://www.kaggle.com/anotherabhishek007)
-  
+
+## Tech Stack
+### Programming Languages
 <p align="center">
-  ## Tech Stack
-  ### Programming Languages
   <img src="./assets/c.svg" width="50rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
 </p>
