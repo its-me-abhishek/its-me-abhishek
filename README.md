@@ -7,5 +7,5 @@
 - Find me @ [Kaggle](https://www.kaggle.com/anotherabhishek007)
   
 <p align="center">
-  <img src="./assets/c.svg" width="100" title="C">
+  <img src="./assets/c.svg" width="50" title="C">
 </p>
