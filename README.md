@@ -8,7 +8,7 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="./assets/c.svg" width="50rem" title="C">
+  <img src="./assets/c.svg" width="500rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
   <img src="./assets/python.svg" width="50rem" title="Python">
   <img src="./assets/flutter.svg" width="50rem" title="Flutter">
