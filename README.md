@@ -7,7 +7,6 @@
 - Find me @ [Kaggle](https://www.kaggle.com/anotherabhishek007)
 
 ## Tech Stack
-### Programming Languages
 <p align="center">
   <img src="./assets/c.svg" width="50rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
