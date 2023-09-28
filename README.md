@@ -8,11 +8,11 @@
 
 ## Tech Stack
 <p align="center">
-  <img src="./assets/c.svg" width="500rem" title="C">
+  <img src="./assets/c.svg" width="50rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
   <img src="./assets/python.svg" width="50rem" title="Python">
   <img src="./assets/flutter.svg" width="50rem" title="Flutter">
-  <img src="./assets/firebase.svg" width="50rem" height="50rem" title="Firebase">
+  <img src="./assets/firebase.svg" width="50rem" height="40rem" title="Firebase">
   <img src="./assets/dart.png" width="50rem" title="Dart">
   <img src="./assets/js.svg" width="50rem" title="Javascript">
   <img src="./assets/numpy.svg" width="50rem" title="Numpy">
