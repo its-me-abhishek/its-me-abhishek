@@ -8,4 +8,5 @@
   
 <p align="center">
   <img src="./assets/c.svg" width="50rem" title="C">
+  <img src="./assets/cpp.svg" width="50rem" title="C">
 </p>
