@@ -6,3 +6,6 @@
 - Feel free to connect. Always up for networking and collaboration.
 - Find me @ [Kaggle](https://www.kaggle.com/anotherabhishek007)
   
+<p align="center">
+  <img src="its-me-abhishek/its-me-abhishek/assets/c.svg" width="350" title="C">
+</p>
