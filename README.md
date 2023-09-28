@@ -4,4 +4,4 @@
 - An open source enthusiast interested in Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
 - Learning Android development using Flutter.
 - Feel free to connect. Always up for networking and collaboration.
-- Kaggle: ![https://www.kaggle.com/anotherabhishek007]
+- [Find me @ Kaggle](https://www.kaggle.com/anotherabhishek007)https://www.kaggle.com/anotherabhishek007
