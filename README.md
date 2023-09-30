@@ -20,3 +20,5 @@
   <img src="./assets/powerbi.svg" width="50rem" title="PowerBI">
   <img src="./assets/react.svg" width="50rem" title="React">
 </p>
+
+[![badges](https://holopin.me/cooolguy31)](https://holopin.io/@cooolguy31)
