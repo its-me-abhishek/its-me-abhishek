@@ -1,8 +1,7 @@
 # Hi! I'm [Abhishek](https://its-me-abhishek.github.io/portfolio/)!
 ### About
 - Currently pursuing B.E. in Information Technology at University Institute of Engineering Technology, Chandigarh, Panjab University.
-- An open source enthusiast interested in Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
-- Learning Android development using Flutter.
+- An open source enthusiast interested in Android Development, Data Science, Data Analysis, Machine Learning, and Artificial Intelligence.
 - Feel free to connect. Always up for networking and collaboration.
 - Find me @ [Kaggle](https://www.kaggle.com/anotherabhishek007)
 - [Click here](https://its-me-abhishek.github.io/portfolio/) to know more about me!
