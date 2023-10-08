@@ -11,9 +11,8 @@
   <img src="./assets/c.svg" width="50rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
   <img src="./assets/python.svg" width="60rem" title="Python">
-  <img src="./assets/kotlin.svg" width="60rem" title="Kotlin">
-  <img src="./assets/as.svg" width="60rem" title="Android Studio">
-  <img src="./assets/jetpack.svg" width="60rem" title="Jetpack Compose">
+  <img src="./assets/kotlin.svg" width="50rem" title="Kotlin">
+  <img src="./assets/as.svg" width="50rem" title="Android Studio">
   <img src="./assets/flutter.svg" width="50rem" title="Flutter">
   <img src="./assets/firebase.svg" width="50rem" height="45rem" title="Firebase">
   <img src="./assets/dart.png" width="50rem" title="Dart">
