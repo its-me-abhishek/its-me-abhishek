@@ -11,8 +11,8 @@
   <img src="./assets/c.svg" width="50rem" title="C">
   <img src="./assets/c++.svg" width="50rem" title="CPP">
   <img src="./assets/python.svg" width="60rem" title="Python">
-  <img src="./assets/node.svg" width="45rem" title="Kotlin">
-  <img src="./assets/django.svg" width="45rem" title="Android Studio">
+  <img src="./assets/node.svg" width="45rem" title="Node.JS">
+  <img src="./assets/django.svg" width="45rem" title="Django">
   <img src="./assets/flutter.svg" width="50rem" title="Flutter">
   <img src="./assets/firebase.svg" width="50rem" height="45rem" title="Firebase">
   <img src="./assets/dart.png" width="50rem" title="Dart">
