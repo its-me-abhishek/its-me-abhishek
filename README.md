@@ -4,7 +4,7 @@
 - Feel free to connect. Always up for networking and collaboration.
 - [Click here](https://its-me-abhishek.github.io/portfolio/) to know more about me!
 
-![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-abhishek&show_icons=true&theme=neon)
+![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-abhishek&show_icons=true&theme=one_dark_pro)
 
 ## Tech Stack
 <p align="center">
