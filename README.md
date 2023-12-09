@@ -1,7 +1,7 @@
 # Hi! I'm [Abhishek](https://its-me-abhishek.github.io/portfolio/)!
 - Currently pursuing B.E. in Information Technology at UIET Chandigarh, Panjab University.
 - An open source enthusiast interested in Backend Development, Android Development, Data Science, Data Analysis.
-- Feel free to connect. Always up for networking and collaboration.
+- Always up for networking and collaboration.
 - [Click here](https://its-me-abhishek.github.io/portfolio/) to know more about me!
 
 ![Abhishek's GitHub stats](https://github-readme-stats.vercel.app/api?username=its-me-abhishek&show_icons=true&theme=one_dark_pro)
