@@ -1,4 +1,5 @@
-# Hi! I'm [Abhishek](https://its-me-abhishek.github.io/portfolio/)!
+# Hi! I'm Abhishek!
+
 - An open source enthusiast interested in Backend Development, Android Development, Data Science, Data Analysis.
 - Always up for networking and collaboration.
 
